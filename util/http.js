@@ -3,7 +3,7 @@ import axios from "axios";
 // Helper functions to send requests
 
 const BACKEND_URL =
-	"https://react-native-expense-tra-3509b-default-rtdb.firebaseio.com";
+	"https://expense-tracker-3be8b-default-rtdb.firebaseio.com/";
 
 //Store expenses to firebase and return the id
 export async function storeExpense(expenseData) {

@@ -33,12 +33,12 @@ const styles = StyleSheet.create({
 		marginVertical: 8,
 	},
 	label: {
-		color: colors.primary100,
+		color: colors.white,
 		fontSize: 12,
 		marginBottom: 4,
 	},
 	input: {
-		backgroundColor: colors.primary100,
+		backgroundColor: colors.accent200,
 		padding: 6,
 		borderRadius: 6,
 		fontSize: 18,

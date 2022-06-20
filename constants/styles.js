@@ -8,9 +8,10 @@ export const GlobalStyles = {
 		primary400: "#b9500a",
 		primary500: "#943f07",
 		primary700: "#813705",
-		primary800: "#682d06",
+		primary800: "#4c5050",
 		accent100: "#68e8f7",
 		accent200: "#17b4c5",
+		accent400: "#0a6e79",
 		error50: "#f1a3a3",
 		error500: "#dd3030",
 		black: "black",
@@ -19,3 +20,4 @@ export const GlobalStyles = {
 		grey400: "#686464",
 	},
 };
+// primary800: "#682d06",
